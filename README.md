@@ -22,7 +22,8 @@ Table 1
 ![table](https://github.com/andreaovelar/api_homework/blob/master/pie_chart.PNG "Pie Chart")
 
 
-* Please find below table 2
+* Please find below table 2 that shows the amount spent by months, please note that given that we only pull data from the last 90 days we are showing amounts spent from July to October. Also to note that for the month of October we only pull few days. 
+
 
 Table 2 
 
@@ -33,7 +34,7 @@ Table 2
 | 9(September)         |    $10645.24    |
 | 10(October)            |  $6.33    |
 
-* Please find below bar chart 
+* Please find below bar chart we can esily see that the spent per month is the same for July, August and September with a value of $10645.24 and the smallest value is for the month of October with an amount of $6.33
 
 ![table](https://github.com/andreaovelar/api_homework/blob/master/bar_chart.PNG "Bar Chart")
 
