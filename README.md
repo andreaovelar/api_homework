@@ -40,4 +40,4 @@ Table 2
 
 #### 2. Retirement Planning: Summarize the retirement portfolio analysis and include the charts for the Monte Carlo simulation.
 
-
+![table](https://github.com/andreaovelar/api_homework/blob/master/monte_carlo.PNG "Monte Carlo")
