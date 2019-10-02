@@ -26,4 +26,7 @@ Table 2
 | 10(October)            |  $6.33    |
 
 
+![alt text](https://github.com/andreaovelar/api_homework/blob/master/bar_chart.PNG
+
+
 Retirement Planning: Summarize the retirement portfolio analysis and include the charts for the Monte Carlo simulation.
