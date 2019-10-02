@@ -40,9 +40,9 @@ Table 2
 
 #### 2. Retirement Planning: Summarize the retirement portfolio analysis and include the charts for the Monte Carlo simulation.
 
-Please find below figure that shows monte carlo similations for the portfolio of 60% Spy and 40% bonds for 
+Please find below figure that shows monte carlo similations for the portfolio of 60% Spy and 40% bonds for a period of 30 years 
 ![table](https://github.com/andreaovelar/api_homework/blob/master/monte_carlo.PNG "Monte Carlo")
 
 
-Please find below figure that shows the distribution of ending returns 
+Please find below figure that shows the distribution of ending returns for a period of 30 years 
 ![table](https://github.com/andreaovelar/api_homework/blob/master/distribution_ending_returns.PNG "Distribution Ending returns")
