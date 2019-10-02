@@ -44,5 +44,34 @@ Please find below figure that shows monte carlo similations for the portfolio of
 ![table](https://github.com/andreaovelar/api_homework/blob/master/monte_carlo.PNG "Monte Carlo")
 
 
+
 Please find below figure that shows the distribution of ending returns for a period of 30 years 
 ![table](https://github.com/andreaovelar/api_homework/blob/master/distribution_ending_returns.PNG "Distribution Ending returns")
+
+### Use the Monte Carlo simulation data to answer the following questions:
+
+* What are the expected cumulative returns at 30 years for the 10th, 50th, and 90th percentiles?
+
+| percentile          | value        | 
+| ----------------- |:-------------:| 
+| 10th percentile   |  1.289466    |
+| 50th percentile           |    2.755764  |
+| 90th percentile          |    4.824329 |
+
+* Given an initial investment of $20,000, what is the expected return in dollars at the 10th, 50th, and 90th percentiles?
+
+| percentile          | value        | 
+| ----------------- |:-------------:| 
+| 10th percentile   |  $25789.0   |
+| 50th percentile           |    $55115.0  |
+| 90th percentile          |    $96487.0 |
+
+* Given the current projected annual income from the Plaid analysis, will a 4% withdrawal rate meet or exceed that value at the 10th percentile? Note: This is basically determining if retirement income is equivalent to current income.
+
+Retirement portfolio does not meet the value at the the 10th percentile. the ending value would be 
+1831 and is lower than the projected yearly income before tax (7389)
+
+* How would a 50% increase in the initial investment amount affect the 4% retirement withdrawal? In other words, what happens if the initial investment had been bigger?
+
+Retirement portfolio does not meet the value at the the 10th percentile. the ending value would be 
+3617 and is lower than the projected yearly income before tax (7389)
